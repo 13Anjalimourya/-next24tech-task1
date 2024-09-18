@@ -44,6 +44,6 @@ Create a basic index.html file with sections for each part of your portfolio: he
 Use semantic HTML elements like <header>, <nav>, <section>, <article>, and <footer> to organize your content properly.
 
 
-![Screenshot 2024-09-18 125552](https://github.com/user-attachments/assets/4f7d7aad-4d09-40fb-a59b-80e23cad77c4)
+
 ![Screenshot 2024-09-18 125552](https://github.com/user-attachments/assets/19927fb1-beae-4911-9c65-3c9ec2546d82)
 
